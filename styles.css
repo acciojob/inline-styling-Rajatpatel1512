@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+   body {
+      background-color: yellow;
+      text-align: center;
+    }
+
+    .flower-container {
+      margin-top: 20px;
+    }
+
+    h1 {
+      color: green;
+    }
+
+    p {
+      font-style: italic;
+    }
